@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Lina Padole
+Author - Lina Padole (Apna College)
